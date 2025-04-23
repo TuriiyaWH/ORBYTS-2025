@@ -2,7 +2,7 @@
 Exoplanet research project and Machine Learning with PhD students.
 
 
-Developing machine learning neural networks to detect gasses in the atmospheres of exoplanets.
+Developing machine learning models and training neural networks to detect gasses in the atmospheres of exoplanets.
 
 The types of gasses that AI will be able to detect are:
 
